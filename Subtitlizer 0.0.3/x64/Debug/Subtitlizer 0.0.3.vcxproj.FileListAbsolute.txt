@@ -1,0 +1,5 @@
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\x64\Debug\Subtitlizer 0.0.3.vcxproj.AssemblyReference.cache
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\x64\Debug\Subtitlizer 0.0.3.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\x64\Debug\Subtitlizer003.MyUserControl.resources
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\x64\Debug\Subtitlizer 0.0.3.vcxproj.GenerateResource.cache
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\x64\Debug\Subtitlizer003.MyForm.resources

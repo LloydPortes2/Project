@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\Source.cpp(53,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\Source.cpp(134,53): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\Source.cpp(134,53): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\Source.cpp(29,12): warning C4101: 'codec': unreferenced local variable
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\Source.cpp(26,19): warning C4101: 'av_codec': unreferenced local variable
+C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\Subtitlizer 0.0.3\Source.cpp(67): warning C4700: uninitialized local variable 'av_codec_params' used
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+Source.obj : warning LNK4248: unresolved typeref token (0100002B) for 'AVDictionary'; image may not run
+  Subtitlizer 0.0.3.vcxproj -> C:\Users\porte\OneDrive\Desktop\Subtitilizer\Subtitlizer 0.0.3\bin\Subtitlizer 0.0.3.exe
